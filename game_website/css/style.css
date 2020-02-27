@@ -1,0 +1,244 @@
+.gamepro {
+	color: rgb(226, 49, 29);
+}
+.section-heading {
+	font-size: 2.7rem;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+hr {
+	width: 4rem;
+	height: 2px;
+	margin: 0 auto 10px;
+	background-color:  rgb(226, 49, 29);
+}
+#header .navbar {
+    font-weight: bold;
+    -webkit-box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
+}
+#header .navbar-toggler {
+    border: 0px;
+}
+#header .navbar .navbar-brand .first-word {
+    color: rgb(226, 49, 29);
+}
+#header .navbar .nav-item.active .nav-link span,
+#header .navbar .nav-item .nav-link span:hover {
+    border-bottom: 2px solid rgb(226, 49, 29);
+}
+#carousel .carousel-inner img {
+    width: 100%;
+    max-height: 650px
+}
+#carousel .carousel-caption h1 {
+	font-weight: bold;
+	color: rgb(226, 49, 29);
+}
+#carousel .carousel {
+	margin-top: 50px;
+}
+#about {
+	padding: 20px 0;
+}
+#about .container .wrapper {
+	margin: 10px;
+	background-color: rgb(245, 243, 242);
+	-webkit-box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.75);
+}
+#about .container .row .col-md-6 {
+	padding: 0;
+}
+#about .side-data {
+	padding: 10px 15px;
+}
+#services .faiconservices {
+	font-size: 3rem;
+	margin-top: 10px;
+	padding: 5px;
+}
+#services {
+	padding-bottom: 10px;
+	background-color: rgb(232, 235, 233);
+}
+#services .container {
+	margin-bottom: 10px;
+}
+#services .card {
+	-webkit-box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+}
+#services .card .faiconservices:hover {
+	color: rgb(226, 49, 29);
+}
+/*
+#gallary .container{
+	margin-top: 10px;
+}*/
+#gallary .afterheading {
+	margin: 20px 0;
+}
+#footer .logofooter img{
+	height: 100px;
+}
+#footer .footer-brand {
+	font-size: 1.5rem;
+	padding: 10px 0;
+}
+#footer .footer-wrapper {
+	border-top: 2px solid rgb(226, 49, 29);
+	padding: 20px 0 0 0;
+	color: white;
+}
+#footer .footer-col-wrapper {
+	margin: auto 0;
+}
+#footer .first-word {
+    color: rgb(226, 49, 29);
+}
+#footer .footer-icons {
+	font-size: 30px;
+	padding: 5px 0;
+}
+#footer .footer-contact-icons .each-item{
+	font-size: 1rem;
+	padding: 5px 0 10px;
+	display: inline-block;
+}
+
+#footer .footer-icons .each-item {
+	margin: 0 5px;
+}
+#footer .footer-contact-icons p {
+	display: inline;
+	font-size: 14px;
+}
+#footer .footer-icons .each-item:hover {
+	color: rgb(226, 49, 29);
+}
+#footer .copyright {
+	background-color: black;
+	margin: 0;
+}
+
+/*about page css*/
+
+#team {
+	padding-bottom: 10px;
+	background-color: rgb(232, 235, 233);
+}
+#team .container {
+	margin-bottom: 10px;
+}
+#team .card {
+	-webkit-box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 3px 5px 0px rgba(0,0,0,0.75);
+}
+#team .card {
+	border: 0;
+}
+#team .card-profile {
+  margin: 10px auto;
+  background-color: white;
+  border-radius: 0;
+  border: 0;
+  box-shadow: 1em 1em 2em rgba(0, 0, 0, 0.2);
+}
+#team .card-profile .card-img-top {
+  border-radius: 50%;
+  max-width: 70%;
+  align-self: center;
+  margin: 20px;
+}
+#team .card-profile .card-title {
+  margin-bottom: 30px;
+}
+#team .card-profile .card-title small {
+  display: block;
+  font-size: .6em;
+  margin-top: .2em;
+}
+#team .card-profile .card-links {
+  margin-bottom: 25px;
+}
+#team .card-profile .card-links {
+  margin: 1em 1em;
+  font-size: 1.5rem;
+}
+#team .card-profile .card-links .twitter {
+  color: #68aade;
+}
+#team .card-profile .card-links .twitter:hover {
+  color: #3e92d5;
+}
+#team .card-profile .card-links .facebook {
+  color: #3b5999;
+}
+#team .card-profile .card-links .facebook:hover {
+  color: #2d4474;
+}
+
+#info {
+	padding: 20px 0;
+}
+#info .container .wrapper {
+	margin: 10px;
+	background-color: rgb(245, 243, 242);
+	-webkit-box-shadow: 1em 1em 2em rgba(0,0,0,0.75);
+	-moz-box-shadow: 1em 1em 2em 0px rgba(0,0,0,0.75);
+	box-shadow: 1em 1em 2em rgba(0, 0, 0, 0.2);
+}
+#info .details-list {
+	list-style: none;
+}
+#info .details-list .details-list-item .details-value{
+	color: rgb(102, 102, 102);
+}
+#info .contact-form-wrapper .form-control{
+	border-radius: 0;
+	border: 0;
+}
+#info .contact-form-wrapper .btn-contact-submit {
+	color: white;
+	background: rgb(226, 49, 29);
+	border-radius: 0;
+	border: 1px solid rgb(226, 49, 29);
+}
+#info .contact-form-wrapper .btn-contact-submit:hover {
+	color: rgb(226, 49, 29);
+	background: transparent;
+	border-radius: 0;
+}
+#gallary-images {
+	margin: 10px;
+}
+#gallary-images .gallery-img {
+	margin-top: 10px;
+}
+#gallary-images .gallery-collection {
+
+}
+#lightbox .modal-content {
+    display: inline-block;
+    text-align: center;   
+}
+
+#lightbox .close {
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 25, 25);
+    padding: 5px 8px;
+    border-radius: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    top: -15px;
+    right: -55px;
+    
+    z-index:1032;
+}
